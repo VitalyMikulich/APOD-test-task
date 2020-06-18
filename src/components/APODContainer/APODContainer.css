@@ -1,0 +1,11 @@
+.APODContiner {
+  margin-top: 15px;
+}
+
+.photo-container {
+  margin-top: 20px;
+}
+
+.APODContiner img {
+  max-height: 600px;
+}

@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+header {
+  margin: 10px;
+  font-size: 20px;
+}
+
+nav {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  flex-wrap: wrap;
+}
+
+nav a {
+  margin: 5px 10px;
+}
